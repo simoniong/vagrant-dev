@@ -1,0 +1,6 @@
+{ 
+  "id"       : "laxino",
+  "command"  : "laxino dev account",
+  "home"     : "/home/laxino",
+  "ssh_keygen" : "true"
+}
